@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="7051" started-at="2021-02-07T20:12:49Z" finished-at="2021-02-07T20:12:56Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="7051" started-at="2021-02-07T20:12:49Z" finished-at="2021-02-07T20:12:56Z">
+      <class name="com.tws.twsframework.tests.FirstTest">
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.tws.twsframework.tests.FirstTest@327471b5]" name="testCase" duration-ms="5091" started-at="2021-02-07T20:12:49Z" data-provider="browser-data-provider" finished-at="2021-02-07T20:12:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.tws.twsframework.tests.FirstTest@327471b5]" name="testCase" duration-ms="5101" started-at="2021-02-07T20:12:49Z" data-provider="browser-data-provider" finished-at="2021-02-07T20:12:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.tws.twsframework.tests.FirstTest@327471b5]" name="testCase" duration-ms="5106" started-at="2021-02-07T20:12:49Z" data-provider="browser-data-provider" finished-at="2021-02-07T20:12:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[opera]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:0, instance:com.tws.twsframework.tests.FirstTest@327471b5]" name="testCase" duration-ms="6423" started-at="2021-02-07T20:12:49Z" data-provider="browser-data-provider" finished-at="2021-02-07T20:12:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="closeBrowsers()[pri:0, instance:com.tws.twsframework.tests.FirstTest@327471b5]" name="closeBrowsers" is-config="true" duration-ms="798" started-at="2021-02-07T20:12:54Z" finished-at="2021-02-07T20:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowsers -->
+        <test-method status="PASS" signature="closeBrowsers()[pri:0, instance:com.tws.twsframework.tests.FirstTest@327471b5]" name="closeBrowsers" is-config="true" duration-ms="789" started-at="2021-02-07T20:12:54Z" finished-at="2021-02-07T20:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowsers -->
+        <test-method status="PASS" signature="closeBrowsers()[pri:0, instance:com.tws.twsframework.tests.FirstTest@327471b5]" name="closeBrowsers" is-config="true" duration-ms="784" started-at="2021-02-07T20:12:54Z" finished-at="2021-02-07T20:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowsers -->
+        <test-method status="PASS" signature="closeBrowsers()[pri:0, instance:com.tws.twsframework.tests.FirstTest@327471b5]" name="closeBrowsers" is-config="true" duration-ms="604" started-at="2021-02-07T20:12:55Z" finished-at="2021-02-07T20:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowsers -->
+      </class> <!-- com.tws.twsframework.tests.FirstTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
