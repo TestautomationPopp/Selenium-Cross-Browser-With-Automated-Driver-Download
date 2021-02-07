@@ -3,8 +3,8 @@
 
 #################### Test With A Smile ####################
 
-                  Written by Andreas Popp              
-  For more informations visit https://test-with-a-smile.de
+                  Written by Andreas Popp
+    For more informations visit https://test-with-a-smile.de  
         or mailto andreas.popp@testautomation-popp.de
         
 ###########################################################
